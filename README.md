@@ -10,7 +10,7 @@
 
 ## 📊 Project Overview
 **BigBasket Insights** is a data analytics project that focuses on analyzing product-level data across categories like **vegetables, beverages, dairy, snacks, and more**.  
-The objective is to uncover **market pricing trends**, explore **brand vs. unbranded differences**, and optimize **product listings** using **SQL, Excel, statistics, and Python-based analysis**.
+The objective is to uncover **market pricing trends**, explore **brand vs. unbranded differences**, and optimize **product listings** using **SQL,  statistics, and Python-based analysis**.
 
 This project explores:  
 - **Data Cleaning & Standardization**  
